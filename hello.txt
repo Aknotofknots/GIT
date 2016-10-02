@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 HEllo.fejkfnsjefn
-=======
-HElooooooo.fnsjefn
->>>>>>> origin/master
